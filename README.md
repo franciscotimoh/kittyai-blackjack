@@ -1,2 +1,2 @@
-# kittyai-buildRL
-COMPSCI 175: Kitty AI Team Automatic Builder Agent (BuildRL)
+# kittyai-blackjack
+COMPSCI 175: Kitty AI Team Automatic Blackjack Agent
